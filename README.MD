@@ -30,3 +30,8 @@ An end-to-end AI system that predicts loan default risk using Machine Learning, 
 
 ```bash
 pip install -r requirements.txt
+
+## 📸 UI Preview
+
+![UI](assets/img.png)
+
