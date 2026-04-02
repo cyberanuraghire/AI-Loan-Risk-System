@@ -34,4 +34,3 @@ pip install -r requirements.txt
 ## 📸 UI Preview
 
 ![UI](assets/img.png)
-
